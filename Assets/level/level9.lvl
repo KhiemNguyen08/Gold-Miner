@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level id="9" t="60" m="1">
+	<entity x="86" y="85" type="5"/>
+	<entity x="91" y="106" type="0"/>
+	<entity x="0" y="118" type="10"/>
+	<entity x="141" y="150" type="12"/>
+	<entity x="50" y="201" type="9"/>
+	<entity x="198" y="178" type="9"/>
+	<entity x="252" y="179" type="9"/>
+	<entity x="165" y="196" type="0"/>
+	<entity x="218" y="196" type="0"/>
+	<entity x="270" y="196" type="0"/>
+	<entity x="71" y="233" type="8"/>
+	<entity x="6" y="271" type="0"/>
+	<entity x="245" y="253" type="3"/>
+	<entity x="187" y="305" type="9"/>
+	<entity x="220" y="291" type="10"/>
+	<entity x="264" y="304" type="9"/>
+	<entity x="289" y="143" type="12"/>
+	<entity x="328" y="131" type="9"/>
+	<entity x="320" y="238" type="8"/>
+	<entity x="437" y="206" type="10"/>
+	<entity x="438" y="249" type="9"/>
+	<entity x="412" y="258" type="4"/>
+	<entity x="437" y="275" type="0"/>
+</level>

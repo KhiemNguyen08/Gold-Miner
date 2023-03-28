@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level id="12" t="60" m="4">
+	<entity x="160" y="95" type="11"/>
+	<entity x="97" y="136" type="5"/>
+	<entity x="32" y="148" type="12"/>
+	<entity x="79" y="200" type="11"/>
+	<entity x="175" y="170" type="11"/>
+	<entity x="218" y="180" type="0"/>
+	<entity x="25" y="262" type="12"/>
+	<entity x="217" y="282" type="10"/>
+	<entity x="313" y="147" type="11"/>
+	<entity x="280" y="193" type="12"/>
+	<entity x="319" y="235" type="12"/>
+	<entity x="426" y="262" type="12"/>
+</level>

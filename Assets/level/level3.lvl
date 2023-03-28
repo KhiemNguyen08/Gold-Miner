@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level id="3" t="60" m="2">
+	<entity x="81" y="91" type="5"/>
+	<entity x="111" y="92" type="5"/>
+	<entity x="81" y="116" type="5"/>
+	<entity x="54" y="167" type="6"/>
+	<entity x="82" y="213" type="2"/>
+	<entity x="0" y="216" type="8"/>
+	<entity x="205" y="143" type="1"/>
+	<entity x="320" y="153" type="5"/>
+	<entity x="244" y="174" type="1"/>
+	<entity x="427" y="154" type="6"/>
+	<entity x="277" y="187" type="10"/>
+	<entity x="307" y="194" type="2"/>
+	<entity x="353" y="183" type="6"/>
+	<entity x="391" y="169" type="2"/>
+	<entity x="337" y="233" type="1"/>
+	<entity x="374" y="234" type="9"/>
+	<entity x="395" y="209" type="2"/>
+</level>

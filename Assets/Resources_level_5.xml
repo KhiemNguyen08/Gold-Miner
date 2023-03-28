@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level>
+  <mineral>
+    <score>300</score>
+    <slowdown>300</slowdown>
+    <sprite>6_0 (UnityEngine.Sprite)</sprite>
+    <changesprite>6_1 (UnityEngine.Sprite)</changesprite>
+    <positionX>6.96</positionX>
+    <positionY>-2.52</positionY>
+  </mineral>
+  <mineral>
+    <score>20</score>
+    <slowdown>20</slowdown>
+    <sprite>1_0 (UnityEngine.Sprite)</sprite>
+    <changesprite>1_1 (UnityEngine.Sprite)</changesprite>
+    <positionX>9.4</positionX>
+    <positionY>-0.02999997</positionY>
+  </mineral>
+  <mineral>
+    <score>100</score>
+    <slowdown>100</slowdown>
+    <sprite>5_1 (UnityEngine.Sprite)</sprite>
+    <changesprite>5_2 (UnityEngine.Sprite)</changesprite>
+    <positionX>3.27</positionX>
+    <positionY>-3.17</positionY>
+  </mineral>
+  <mineral>
+    <score>50</score>
+    <slowdown>50</slowdown>
+    <sprite>10_0 (UnityEngine.Sprite)</sprite>
+    <changesprite>10_1 (UnityEngine.Sprite)</changesprite>
+    <positionX>-4.33</positionX>
+    <positionY>0.29</positionY>
+  </mineral>
+  <mineral>
+    <score>300</score>
+    <slowdown>300</slowdown>
+    <sprite>7_0 (UnityEngine.Sprite)</sprite>
+    <changesprite>7_1 (UnityEngine.Sprite)</changesprite>
+    <positionX>-5.66</positionX>
+    <positionY>-3.02</positionY>
+  </mineral>
+  <mineral>
+    <score>30</score>
+    <slowdown>30</slowdown>
+    <sprite>3_0 (UnityEngine.Sprite)</sprite>
+    <changesprite>3_1 (UnityEngine.Sprite)</changesprite>
+    <positionX>4.6</positionX>
+    <positionY>-2.86</positionY>
+  </mineral>
+  <mineral>
+    <score>10</score>
+    <slowdown>10</slowdown>
+    <sprite>4_0 (UnityEngine.Sprite)</sprite>
+    <changesprite>4_2 (UnityEngine.Sprite)</changesprite>
+    <positionX>-2.42</positionX>
+    <positionY>-1.49</positionY>
+  </mineral>
+  <mineral>
+    <score>10</score>
+    <slowdown>10</slowdown>
+    <sprite>11_0 (UnityEngine.Sprite)</sprite>
+    <changesprite>null</changesprite>
+    <positionX>-0.28</positionX>
+    <positionY>1.26</positionY>
+  </mineral>
+  <mineral>
+    <score>10</score>
+    <slowdown>10</slowdown>
+    <sprite>11_0 (UnityEngine.Sprite)</sprite>
+    <changesprite>null</changesprite>
+    <positionX>6</positionX>
+    <positionY>0.42</positionY>
+  </mineral>
+  <mineral>
+    <score>600</score>
+    <slowdown>600</slowdown>
+    <sprite>9_0 (UnityEngine.Sprite)</sprite>
+    <changesprite>9_1 (UnityEngine.Sprite)</changesprite>
+    <positionX>-7.01</positionX>
+    <positionY>-4.03</positionY>
+  </mineral>
+  <mineral>
+    <score>20</score>
+    <slowdown>20</slowdown>
+    <sprite>1_0 (UnityEngine.Sprite)</sprite>
+    <changesprite>1_1 (UnityEngine.Sprite)</changesprite>
+    <positionX>-5.56</positionX>
+    <positionY>-0.02999997</positionY>
+  </mineral>
+  <mineral>
+    <score>100</score>
+    <slowdown>100</slowdown>
+    <sprite>5_1 (UnityEngine.Sprite)</sprite>
+    <changesprite>5_2 (UnityEngine.Sprite)</changesprite>
+    <positionX>-5.9</positionX>
+    <positionY>0.87</positionY>
+  </mineral>
+  <mineral>
+    <score>100</score>
+    <slowdown>100</slowdown>
+    <sprite>5_1 (UnityEngine.Sprite)</sprite>
+    <changesprite>5_2 (UnityEngine.Sprite)</changesprite>
+    <positionX>6.67</positionX>
+    <positionY>1.77</positionY>
+  </mineral>
+  <mineral>
+    <score>100</score>
+    <slowdown>100</slowdown>
+    <sprite>5_1 (UnityEngine.Sprite)</sprite>
+    <changesprite>5_2 (UnityEngine.Sprite)</changesprite>
+    <positionX>2.18</positionX>
+    <positionY>-1.44</positionY>
+  </mineral>
+</level>
